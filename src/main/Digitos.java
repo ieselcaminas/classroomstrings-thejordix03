@@ -12,7 +12,7 @@ public class Digitos {
     }
 
     public static void main(String[] args) {
-        String texto = "un 1 y un 20";
+        String texto = "1 20 hola 234 45a";
 
         int cantidad = cuantosSonDigitos(texto);
 
